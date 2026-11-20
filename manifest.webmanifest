@@ -1,0 +1,20 @@
+{
+  "id": "/suhoryeong-jeon/",
+  "name": "수호령전",
+  "short_name": "수호령전",
+  "description": "점괘로 정한 수호령 무리를 모시고 신내림해 요괴로부터 마을을 지키는 한국 설화 디펜스 게임",
+  "lang": "ko",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#171717",
+  "theme_color": "#171717",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
